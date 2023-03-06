@@ -4,7 +4,6 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 
 Skills: Express JS / REACT /Redux/ JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/moutosi-raka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moutosi-showrin-raka/)  
