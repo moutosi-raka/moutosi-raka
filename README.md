@@ -4,11 +4,11 @@
 I want to pursue a challenging and awarding career in the field of IT and be a part of a progressive organization that gives scope to enhance my knowledge and utilize my potential towards the growth of the organization.
 
 ## 👩‍💻Skills 
- ### 🏆 Express JS 
-🏆 REACT 
-🏆 Redux
-🏆 JS 
-🏆 HTML / CSS / Tailwind CSS/ Bootstrap
+##### 🏆 Express JS 
+##### 🏆 REACT 
+##### 🏆 Redux
+##### 🏆 JS 
+##### 🏆 HTML / CSS / Tailwind CSS/ Bootstrap
 
 ## Contact Me
 💌 raka29077997@gmail.com
