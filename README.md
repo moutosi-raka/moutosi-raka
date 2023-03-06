@@ -1,10 +1,19 @@
 # I'm Moutosi Showrin Raka
 #### MERN Stack Developer
+## 🚀About Me
 I want to pursue a challenging and awarding career in the field of IT and be a part of a progressive organization that gives scope to enhance my knowledge and utilize my potential towards the growth of the organization.
 
-Skills: Express JS / REACT /Redux/ JS / HTML / CSS
+## 👩‍💻Skills 
+🏆 Express JS 
+🏆 REACT 
+🏆 Redux
+🏆 JS /
+🏆 HTML / CSS / Tailwind CSS/ Bootstrap
 
+## Contact Me
+💌 raka29077997@gmail.com
 
+![Profile views](https://gpvc.arturio.dev/moutosi-raka)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/moutosi-raka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moutosi-showrin-raka/)  
 
@@ -18,5 +27,5 @@ Skills: Express JS / REACT /Redux/ JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=moutosi-raka)  
 
-![Profile views](https://gpvc.arturio.dev/moutosi-raka)  
+
 
