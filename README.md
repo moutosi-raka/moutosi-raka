@@ -7,7 +7,7 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 
 #### My Current Stack
 
-<img height="48" src="img/html.png" alt="html"> <img height="48" src="img/css.png" alt="css"> <img height="48" src="img/js.png" alt="js"> <img height="48" src="img/react.png" alt="react"> <img height="48" src="img/node2.png" alt="node"> <img height="48" src="img/mongodb.png" alt="mongodb">
+<img height="48" src="img/html.png" alt="html"> <img height="48" src="img/css.png" alt="css"> <img height="48" src="img/js.png" alt="js"> <img height="48" src="img/react.png" alt="react"> <img height="48" src="img/node2.png" alt="node"> <img height="58" src="img/mongodb.png" alt="mongodb">
 
 
 ## Contact Me
