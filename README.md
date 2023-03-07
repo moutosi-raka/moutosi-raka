@@ -10,10 +10,6 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 <img height="48" src="img/html.png" alt="html"> <img height="48" src="img/css.png" alt="css"> <img height="48" src="img/js.png" alt="js"> <img height="48" src="img/react.png" alt="react"> <img height="48" src="img/node2.png" alt="node"> <img height="58" src="img/mongodb.png" alt="mongodb">
 
 
-## Contact Me
-💌 raka29077997@gmail.com
-
-
 #### Connect With Me
 
 <p left="center">
@@ -27,9 +23,7 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 <a href="https://medium.com/@sudiptob2">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="raka29077997@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
+💌 raka29077997@gmail.com
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/moutosi-raka)  
