@@ -20,7 +20,7 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 <a href="https://www.facebook.com/moutosi.raka">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-💌 raka29077997@gmail.com
+
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/moutosi-raka)  
