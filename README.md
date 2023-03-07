@@ -13,6 +13,25 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 ## Contact Me
 💌 raka29077997@gmail.com
 
+
+#### Connect With Me
+
+<p left="center">
+
+<a href="https://www.linkedin.com/in/moutosi-showrin-raka/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/moutosi.raka">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="https://medium.com/@sudiptob2">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="raka29077997@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
+
 ![Profile views](https://gpvc.arturio.dev/moutosi-raka)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/moutosi-raka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moutosi-showrin-raka/)  
