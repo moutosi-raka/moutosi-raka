@@ -7,13 +7,8 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 
 #### My Current Stack
 
-<img height="48" src="img/pngegg.png" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
-## 👩‍💻Skills 
-##### 🏆 Express JS 
-##### 🏆 REACT 
-##### 🏆 Redux
-##### 🏆 JS 
-##### 🏆 HTML / CSS / Tailwind CSS/ Bootstrap
+<img height="48" src="img/html.png" alt="html"> <img height="48" src="img/css.png" alt="css"> <img height="48" src="img/js.png" alt="js"> <img height="48" src="img/react.png" alt="react"> <img height="48" src="img/node2.png" alt="node"> <img height="48" src="img/mongodb.png" alt="mongodb">
+
 
 ## Contact Me
 💌 raka29077997@gmail.com
