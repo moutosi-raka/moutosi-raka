@@ -1,29 +1,13 @@
 
-## Opensource contributor in Infra, Cloud, and DevOps space. From Bangladesh :bangladesh:	 
-
-<p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
-  </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
-  </a>
-
-
 # I'm Moutosi Showrin Raka
 #### MERN Stack Developer
 ## 🚀About Me
 I want to pursue a challenging and awarding career in the field of IT and be a part of a progressive organization that gives scope to enhance my knowledge and utilize my potential towards the growth of the organization.
 
+
+#### My Current Stack
+
+<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
 ## 👩‍💻Skills 
 ##### 🏆 Express JS 
 ##### 🏆 REACT 
