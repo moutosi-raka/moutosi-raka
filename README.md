@@ -17,9 +17,7 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 <a href="https://www.linkedin.com/in/moutosi-showrin-raka/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/moutosi.raka">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
+
 
 </p>
 
