@@ -26,7 +26,6 @@ I want to pursue a challenging and awarding career in the field of IT and be a p
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moutosi-raka)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutosi-raka)](https://github.com/anuraghazra/github-readme-stats)
 
